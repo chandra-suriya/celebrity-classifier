@@ -1,2 +1,2 @@
 # celebrity-classifier
-detec the face of the celebrities of particular by training the model and detec
+detect the celebrity name by using the created model with ml and then using wavelet transform .
